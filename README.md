@@ -1,9 +1,7 @@
 🚀 Practice Express API
 
 This repository contains a basic Express.js API created to practice handling API requests and responses. The project utilizes Bruno as the API testing tool, allowing you to simulate and test the API endpoints effectively.
-🌟 About
 
-The Practice Express API is a simple server built with Express.js, designed as a learning tool to get hands-on experience with API development. It includes comprehensive CRUD operations for managing students, courses, and enrollments in a school system context.
 ✨ Features
 
     🛠️ CRUD Operations for Students and Courses — Add, view, update, and delete students and courses.
